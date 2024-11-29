@@ -1,2 +1,2 @@
-polars[delta]
+polars
 deltalake
